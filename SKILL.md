@@ -87,7 +87,7 @@ Start with the delivery check, because a funded campaign is a promise to make an
 - Shipping and packaging per reward, by region
 - One-off costs: tooling, samples, safety testing if the product needs it
 - A buffer of 10 to 20 percent for what goes wrong
-- Fees: Kickstarter takes 5 percent of funds raised plus payment processing (in the US, 3 percent plus $0.20 per pledge), charged only if the project is funded. Check kickstarter.com/help/fees for the creator's country.
+- Fees: Kickstarter takes 5 percent of funds raised plus payment processing (in the US, 3 percent plus 20 cents per pledge), charged only if the project is funded. Check kickstarter.com/help/fees for the creator's country.
 - Funding goal = the total of the above for the smallest batch worth making. If the team can't fill in a number, write `[NEEDS: ...]` and stop there until they can. A goal built on guesses is how student campaigns end up owing people products they can't afford to make.
 
 **How funding works.** It is all-or-nothing: if the goal isn't reached, backers are not charged and the team gets nothing. A campaign can run 1 to 60 days, and Kickstarter says around 30 days tends to work best.
